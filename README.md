@@ -73,7 +73,7 @@ Si esto fuera una tarea laboral real:
 ---
 
 ## 🔗 Enlaces
-- 📓 [Notebook del proyecto](./rappiplus_analysis.ipynb)
+- 📓 [Notebook del proyecto](./S12%20Proyecto%20RappiPlus.ipynb)
 - 📊 [Dashboard en Power BI](https://drive.google.com/drive/folders/1kWFhY3nmmINmuXVKG3naqJ-tK3VqrOtl?usp=drive_link)
 
 ---
