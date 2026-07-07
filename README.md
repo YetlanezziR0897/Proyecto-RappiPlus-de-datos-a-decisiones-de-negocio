@@ -76,6 +76,10 @@ Si esto fuera una tarea laboral real:
 - 📓 [Notebook del proyecto](./S12%20Proyecto%20RappiPlus.ipynb)
 - 📊 [Dashboard en Power BI](https://drive.google.com/drive/folders/1kWFhY3nmmINmuXVKG3naqJ-tK3VqrOtl?usp=drive_link)
 
+## 📸 Dashboard Preview
+
+![Overview Ejecutivo](./Overview%20Ejecutivo.png)
+![Detalle de Productos](./Detalle%20de%20productos.png)
 ---
 
 ## 🛠️ Herramientas Utilizadas
